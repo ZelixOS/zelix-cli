@@ -2,7 +2,7 @@
 
 A command-line management tool for ZelixOS, written in Bash. It provides system updates, maintenance commands, and access to companion applications.
 
-![Illustrated Zelix CLI command overview](docs/images/zelix-cli-commands.svg)
+![Latest Zelix CLI help screen in Konsole on the ZelixOS live desktop](docs/images/zelix-cli.png)
 
 Use `zelix help` to explore the terminal commands. The command interface supports English, Turkish, and Spanish (`zelix lang en`, `zelix lang tr`, or `zelix lang es`).
 
